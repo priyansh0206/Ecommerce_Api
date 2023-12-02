@@ -25,7 +25,6 @@ module.exports.addProduct = async (req, res) => {
             "product added is": savedProduct
         });
     } catch (error) {
-        console.log(error);
         if (error.code === 11000) {
             return res.status(409).json({
                 error: 'Product ID already exists, please try again with different product id !'
