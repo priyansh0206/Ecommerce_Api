@@ -1,6 +1,7 @@
 //variable for using the mongoose
 const mongoose = require('mongoose');
 
+//connection URL for connecting the Database
 mongoose.connect('mongodb://127.0.0.1:27017/ecommerce_api');
 
 const db = mongoose.connection;
