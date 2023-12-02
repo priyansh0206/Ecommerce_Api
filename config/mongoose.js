@@ -2,7 +2,7 @@
 const mongoose = require('mongoose');
 
 //connection URL for connecting the Database
-mongoose.connect('mongodb://127.0.0.1:27017/ecommerce_api');
+mongoose.connect('mongodb+srv://priyanshadmin:admin@clustermain.vvg6gyt.mongodb.net/ecommerce_api/?retryWrites=true&w=majority');
 
 const db = mongoose.connection;
 
