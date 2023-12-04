@@ -1,5 +1,7 @@
 # **URL:** https://ecommerce-api-gk8p.onrender.com/
 
+# **Video Demo:** https://drive.google.com/file/d/12LNr_QCo5fGj4YZfmGDErsaVi6ro93gR/view?usp=drive_link
+
 # Ecommerce API
 
 Welcome to the E-commerce Management API, a robust and intuitive solution designed to empower e-commerce platform administrators in efficiently managing product inventory. This API provides a seamless interface for adding, updating, retrieving, and deleting products from the inventory, offering a comprehensive set of functionalities to streamline the administrative tasks associated with maintaining an online store.
